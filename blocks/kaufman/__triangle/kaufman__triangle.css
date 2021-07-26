@@ -1,0 +1,11 @@
+@import url(../../rotation/rotation.css);
+
+.kaufman__triangle {
+  width: 660px;
+  height: 636px;
+  position: absolute;
+  top: 0;
+  right: -124px;
+  z-index: 0;
+  animation: rotation linear 20s infinite;
+}
